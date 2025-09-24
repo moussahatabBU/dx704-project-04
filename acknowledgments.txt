@@ -1,0 +1,4 @@
+I did not discuss this project with any other classmates. This project was done by myself only. The resources I leveraged to help me complete this assignment can be found below:
+https://www.kaggle.com/code/phamvanvung/linucb-thompson-sampling
+https://www.kaggle.com/code/phamvanvung/linucb
+https://medium.com/data-science/recommender-systems-using-linucb-a-contextual-multi-armed-bandit-approach-35a6f0eb6c4
